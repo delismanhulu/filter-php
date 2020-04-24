@@ -1,3 +1,4 @@
+<!-- Buat Koneksi ke Database Habis itu sesuaikan nama database anda di phpmyadmin -->
 <?php
 $server= 'localhost'; 
 $user= 'root';
